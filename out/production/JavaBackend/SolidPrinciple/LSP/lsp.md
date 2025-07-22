@@ -35,7 +35,7 @@ class Ostrich extends Bird {
 
 ### 🚨 Problem:
 
-* You **can’t substitute** Ostrich for Bird.
+* You * force to implement UnsupportedOperationException method  
 * `bird.fly()` breaks for Ostrich → LSP violated.
 
 ---

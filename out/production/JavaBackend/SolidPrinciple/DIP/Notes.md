@@ -1,8 +1,8 @@
 ---
 
-# 📘 Dependency Inversion Principle (DIP)
+#  Dependency Inversion Principle (DIP)
 
-### 🔁 DIP Definition:
+###  DIP Definition:
 
 **High-level modules should not depend on low-level modules. Both should depend on abstractions.**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Why DIP?
+##  Why DIP?
 
 Without DIP:
 
@@ -81,7 +81,7 @@ class OrderService {
 
 ---
 
-# 💉 Dependency Injection (DI)
+#  Dependency Injection (DI)
 
 > **Dependency Injection** is a technique to achieve **Dependency Inversion Principle**.
 
@@ -89,7 +89,7 @@ class OrderService {
 
 ---
 
-### 1️⃣ Constructor Injection (Most Common)
+### 1 Constructor Injection (Most Common)
 
 ```java
 class Client {
